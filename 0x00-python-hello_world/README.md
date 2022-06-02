@@ -5,7 +5,7 @@ project done during Full Stack Software Engineering studies at __ALX AFRICA SE S
 ## test 📁
 - [test](./tests/): This directory contains all my test files for this project.
 
-## Main.h
+## Lists.h
 * [lists.h](./lists.h): Header file containing prototypes for all functions written in the project.
 
 _Filename_ | _Description_ | _Prototype_
