@@ -1,17 +1,16 @@
 #!/usr/bin/python3
-
 def multiple_returns(sentence):
-    returned_tuple = ()
+    tup = ()
     length = len(sentence)
     first = ""
 
     if not sentence:
         length = 0
         first = None
-        returned_tuple += (length, first)
+        tup = tup + (length, first)
 
     else:
         first = sentence[0]
-        returned_tuple += (length, first)
+        tup = tup + (length, first)
 
     return tup
