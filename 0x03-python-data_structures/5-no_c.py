@@ -3,5 +3,5 @@
 def no_c(my_string):
     """removes all characters c and C from a string."""
 
-    new_string = my_string.translate({ord(not_allowed): None for not_allowed in 'cC'})
+    new_string = my_string.translate({ord(i): None for i in 'cC'})
     return new_string
