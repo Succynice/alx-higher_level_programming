@@ -1,7 +1,7 @@
 # Python - import & modules
 project done during Full Stack Software Engineering studies at **ALX AFRICA SE School**. In this project, I learned about importing and using functions and creating modules in Python. I further practiced using the builtin function `dir()` and using command line arguments within Python programs.
 
-## test 📁
+## tests 📁
 - [tests](./tests/): This directory contains all my test files for this project.
 
 _Filename_ | _Description_ 
