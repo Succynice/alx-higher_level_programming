@@ -2,8 +2,9 @@
 
 In this project, I learned handling errors and exceptions in Python with `try` and `except`.
 
+## Tests :heavy_check_mark:
 
-## Function Prototypes :floppy_disk:
+* [tests](./tests): This directory contains all my test files for this project.
 
 ## Table of contents
 Files | Description | Prototypes
