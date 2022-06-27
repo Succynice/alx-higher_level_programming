@@ -16,9 +16,9 @@ The unittest can be run with ```python3 -m unittest tests.6-max_integer_test```
   * [3-say_my_name.txt](./tests/3-say_my_name.txt)
   * [4-print_square.txt](./tests/4-print_square.txt)
   * [5-text_indentation.txt](./tests/text_indentation.txt)
-  <!-- * [6-max_integer_test.py](./tests/6-max_integer_test.py)
+  * [6-max_integer_test.py](./tests/6-max_integer_test.py)
   * [100-matrix_mul.txt](./tests/100-matrix_mul.txt)
-  * [101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt) -->
+  * [101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt)
 
 ## Table of contents :floppy_disk:
 
@@ -29,9 +29,9 @@ Files | Description | Prototype
 [3-say_my_name.py](./3-say_my_name.py) | Python function that prints "My name is first_name last_name" | `def say_my_name(first_name, last_name=""):`
 [4-print_square.py](./4-print_square.py) | Python function that prints a square with the character # | `def print_square(size):`
 [5-text_indentation.py](./5-text_indentation.py) | Python function that prints a text with 2 new lines after each of these characters: ., ? and : | `def text_indentation(text):`
-<!-- [100-matrix_mul.py](./100-matrix_mul.py) | Python function that multiplies 2 matrices | `def matrix_mul(m_a, m_b):`
+[100-matrix_mul.py](./100-matrix_mul.py) | Python function that multiplies 2 matrices | `def matrix_mul(m_a, m_b):`
 [101-lazy_matrix_mul.py](./101-lazy_matrix_mul.py) | Python function that multiplies 2 matrices by using the module NumPy | `def lazy_matrix_mul(m_a, m_b):`
-[102-python.c](./102-python.c) | C function that prints Python strings | `void print_python_string(PyObject *p);` -->
+[102-python.c](./102-python.c) | C function that prints Python strings | `void print_python_string(PyObject *p);`
 
 ## Tasks :page_with_curl:
 
@@ -69,7 +69,7 @@ Files | Description | Prototype
 * **5. Max integer - Unittest**
   * [tests/6-max_integer_test.py](./tests/6-max_integer_text.py): Python class/scriptthat runs unittests for the function `def max_integer(list=[]):`.
 
-<!-- * **6. Matrix multiplication**
+* **6. Matrix multiplication**
   * [100-matrix_mul.py](./100-matrix_mul.py): Python function that multiplies two matrices.
   * Returns a new matrix representing the multiplication of `m_a` by `m_b`.
   * If either of `m_a` or `m_b` is empty (ie. `== []` or `== [[]]`), a `ValueError` is raised with the message `m_a can't be empty` or `m_b can't be empty`.
@@ -84,4 +84,4 @@ Files | Description | Prototype
   * Identical in function to [100-matrix_mul.py](./100-matrix_mul.py).
 
 * **8. CPython #3: Python Strings**
-  * [102-python.c](./102-python.c): C function that prints basic information about Python string objects. -->
+  * [102-python.c](./102-python.c): C function that prints basic information about Python string objects.
