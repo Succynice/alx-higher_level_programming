@@ -6,7 +6,9 @@ In this project, I began practicing object-oriented programming using classes an
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): This directory contains all my test files for this project.
+
+## Table of Contents
 
 Files | Description
 ----- | -----------
