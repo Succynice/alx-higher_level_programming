@@ -10,8 +10,8 @@ In this project, I began practicing object-oriented programming using classes an
 
 ## Table of Contents
 
-Files | Description
------ | -----------
+Files | Description | Prototype
+----- | ----------- | ---------
 [0-square.py](./0-square.py) | Python class Square that defines a square
 [1-square.py](./1-square.py) | Python class Square that defines a square based on the previous one
 [2-square.py](./2-square.py) | Python class Square that defines a square based on the previous one
