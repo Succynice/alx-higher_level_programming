@@ -2,9 +2,13 @@
 
 Project done during Full Stack Software Engineering studies at ALX AFRICA SE School. In this project, I continued to practice object-oriented programming in Python. I learned about class methods, static methods, class vs instance attributes, andbhow to use the special `__str__` and `__repr__` methods.
 
+*****
+
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): This directory contains all my test files for this project.
+
+*****
 
 ## Table of contents
 File | Description
@@ -84,3 +88,5 @@ File | Description
   * If the provided `N` is not an integer, the program prints `N must be a number` and exits with the status `1`.
   * If the provided `N` is less than `4`, the program prints `N must be at least 4` and exits with the status `1`.
   * Solutions are printed one per line in the format `[[r, c], [r, c], [r, c], [r, c]]` where `r` and `c` represent the row and column, respectively, where a queen must be placed..
+
+*****
