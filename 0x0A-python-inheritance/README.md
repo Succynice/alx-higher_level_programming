@@ -2,11 +2,15 @@
 
 Project done during Full Stack Software Engineering studies at ALX AFRICA SE School. In this project, I learned about Python class inheritance. I learned about the differences between super- and sub-classes while practicing inheritance, definining classes with multiple base classes, and overiding inherited methods and attributes.
 
+*****
+
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): This directory contains all my test files for this project:
     * [1-my_list.txt](./1-my_list.txt)
     * [7-base_geometry.txt](./7-base_geometry.txt)
+
+*****
 
 ## Table of Contents
 
@@ -87,3 +91,5 @@ Files | Description
 * **13. Can I?**
   * [101-add_attribute.py](./101-add_attribute.py): Python function that adds a new attribute to an object if possible.
     * If an attribute cannot be added, a `TypeError` exception is raised with the message `can't add new attribute`.
+
+*****
