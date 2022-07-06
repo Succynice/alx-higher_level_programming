@@ -4,9 +4,13 @@
 
 In this project, I began practicing object-oriented programming using classes and objects in Python. I learned about attributes, methods, and properties as well as data abstraction, data encapsulation, and information hiding.
 
+*****
+
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): This directory contains all my test files for this project.
+
+*****
 
 ## Table of Contents
 
@@ -87,3 +91,5 @@ Files | Description | Prototype
 
 * **10. ByteCode -> Python #5**
   * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode provided.
+
+*****
