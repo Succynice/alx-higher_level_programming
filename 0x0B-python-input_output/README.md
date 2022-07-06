@@ -7,9 +7,6 @@ roject done during Full Stack Software Engineering studies at ALX AFRICA SE Scho
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): This directory contains all my test files for this project:
-    * [1-my_list.txt](./1-my_list.txt)
-    * [7-base_geometry.txt](./7-base_geometry.txt)
-
 
 ### Table of contents
 
