@@ -1,12 +1,16 @@
 # Python - Test-driven development
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
+*****
+
 ## Description
 This project's purpose is to practice Test-Driven Development.
 Every task is composed of one script, and one corresponding test file for this script.
 
 The doctests can be run with ```python3 -m doctest ./tests/*```
 The unittest can be run with ```python3 -m unittest tests.6-max_integer_test```
+
+*****
 
 ## Tests :heavy_check_mark:
 
@@ -19,6 +23,8 @@ The unittest can be run with ```python3 -m unittest tests.6-max_integer_test```
   * [6-max_integer_test.py](./tests/6-max_integer_test.py)
   * [100-matrix_mul.txt](./tests/100-matrix_mul.txt)
   * [101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt)
+
+*****
 
 ## Table of contents :floppy_disk:
 
@@ -86,3 +92,4 @@ Files | Description | Prototype
 * **8. CPython #3: Python Strings**
   * [102-python.c](./102-python.c): C function that prints basic information about Python string objects.
 
+*****
