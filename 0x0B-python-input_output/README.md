@@ -2,23 +2,35 @@
 
 roject done during Full Stack Software Engineering studies at ALX AFRICA SE School.In this project, I practiced file handling in Python.  I used the builtin `with`, `open`, and `read` functions with the `json` module to read and write files and serialize and deserialize objects with JSON.
 
+*****
+
+## Tests :heavy_check_mark:
+
+* [tests](./tests): This directory contains all my test files for this project:
+    * [1-my_list.txt](./1-my_list.txt)
+    * [7-base_geometry.txt](./7-base_geometry.txt)
+
 
 ### Table of contents
 
 | File        | Prototype               |
 | ------------| ----------------------- |
-| `0-read_file.py | `def read_file(filename=""):` |
-| `1-number_of_lines.py` | `def number_of_lines(filename=""):` |
-| `2-read_lines.py` | `def read_lines(filename="", nb_lines=0):` |
-| `3-write_file.py` | `def write_file(filename="", text=""):` |
-| `2-append_write.py` | `def append_write(filename="", text=""):` |
-| `3-to_json_string.py` | `def to_json_string(my_obj):` |
-| `4-from_json_string.py` | `def from_json_string(my_str):` |
-| `5-save_to_json_file.py` | `def save_to_json_file(my_obj, filename):` |
-| `6-load_from_json_file.py` | `def load_from_json_file(filename):` |
-| `8-class_to_json.py` | `def class_to_json(obj):` |
-| `12-pascal_triangle.py` | `def pascal_triangle(n):` |
-| `100-append_after.py` | `def append_after(filename="", search_string="", new_string=""):` |
+| [0-read_file.py](./0-read_file.py) | a function that reads a text file (UTF8) and prints it to stdout: | `def read_file(filename=""):` |
+| [1-number_of_lines.py](./1-write_file.py) | a function that writes a string to a text file (UTF8) and returns the number of characters written: | `def number_of_lines(filename=""):` |
+| [2-read_lines.py](./2-append_write.py) | a function that appends a string at the end of a text file (UTF8) and returns the number of characters added: | `def read_lines(filename="", nb_lines=0):` |
+| [3-to_json_string.py](./3-to_json_string.py) | a function that returns the JSON representation of an object (string): | `def to_json_string(my_obj):` |
+| [4-from_json_string.py](./4-from_json_string.py) | a function that returns an object (Python data structure) represented by a JSON string: | `def from_json_string(my_str):` |
+| [5-save_to_json_file.py](./5-save_to_json_file.py) | a function that writes an Object to a text file, using a JSON representation: | `def save_to_json_file(my_obj, filename):` |
+| [6-load_from_json_file.py](./6-load_from_json_file.py) | a function that creates an Object from a “JSON file”: | `def load_from_json_file(filename):` |
+| [7-add_item.py](./7-add_item.py) | a script that adds all arguments to a Python list, and then save them to a file: | 
+| [8-class_to_json.py](./8-class_to_json.py) | a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object: | `def class_to_json(obj):` | 
+| [9-student.py](./9-student.py) | a class Student that defines a student by: |
+| [10-student.py](./10-student.py) | a class Student that defines a student by: | 
+| 10-student.py | a class Student that defines a student by: (based on 9-student.py) | 
+| [11-student.py](11-student.py) | a class Student that defines a student by: (based on 10-student.py) | 
+|[12-pascal_triangle.py](./12-pascal_triangle.py) | a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n: | `def pascal_triangle(n):` |
+| [100-append_after.py](./100-append_after.py) | a function that inserts a line of text to a file, after each line containing a specific string (see example): | `def append_after(filename="", search_string="", new_string=""):` |
+| [101-stats.py](101-stats.py) | a script that reads stdin line by line and computes metrics: | 
 
 ## Tasks :page_with_curl:
 
