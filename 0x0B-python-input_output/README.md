@@ -25,8 +25,7 @@ roject done during Full Stack Software Engineering studies at ALX AFRICA SE Scho
 | [7-add_item.py](./7-add_item.py) | a script that adds all arguments to a Python list, and then save them to a file: | 
 | [8-class_to_json.py](./8-class_to_json.py) | a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object: | `def class_to_json(obj):` | 
 | [9-student.py](./9-student.py) | a class Student that defines a student by: |
-| [10-student.py](./10-student.py) | a class Student that defines a student by: | 
-| 10-student.py | a class Student that defines a student by: (based on 9-student.py) | 
+| [10-student.py](./10-student.py) | a class Student that defines a student by: (based on 9-student.py) | 
 | [11-student.py](11-student.py) | a class Student that defines a student by: (based on 10-student.py) | 
 |[12-pascal_triangle.py](./12-pascal_triangle.py) | a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n: | `def pascal_triangle(n):` |
 | [100-append_after.py](./100-append_after.py) | a function that inserts a line of text to a file, after each line containing a specific string (see example): | `def append_after(filename="", search_string="", new_string=""):` |
