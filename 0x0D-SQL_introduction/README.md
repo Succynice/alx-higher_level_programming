@@ -28,6 +28,7 @@ Files | Description
 [101-avg_temperatures.sql](./101-avg_temperatures.sql) | sql script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending)
 [102-top_city.sql](./102-top_city.sql) | sql script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)
 [103-max_state.sql](./103-max_state.sql) | sql script that displays the max temperature of each state (ordered by State name)
+[temperatures.sql](./temperatures.sql) | Tasks 101-103 query from the database
 
 ## Tasks :page_with_curl:
 
