@@ -1,4 +1,4 @@
-# MORE QUERIES.
+# SQL - MORE QUERIES.
 
 ## Table of contents
 Files | Description
