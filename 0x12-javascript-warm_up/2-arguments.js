@@ -6,7 +6,6 @@ if (argv < 3) {
   console.log('No arguments');
 } else if (argv === 3) {
   console.log('Argument found');
-}
-else {
+} else {
   console.log('Arguments found');
 }
