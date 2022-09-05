@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
 function add (a, b) {
-  return a + b;
+  console.log(a + b);
 }
 
 const entry = process.argv;
@@ -11,5 +11,5 @@ const valueB = Math.floor(entry[3]);
 if (isNaN(valueA) && isNaN(valueB)) {
   console.log('Missing size');
 } else {
-  console.log(add(valueA, valueB));
+  add(valueA, valueB);
 }
