@@ -2,7 +2,7 @@
 
 const entry = process.argv;
 
-const toNumber = Math.floor(entry[3]);
+const toNumber = Math.floor(entry[2]);
 if (isNaN(toNumber)) {
   console.log('Not a number');
 } else {
