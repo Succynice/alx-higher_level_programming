@@ -1,9 +1,6 @@
 #!/usr/bin/node
-if (process.argv.length <= 3) {
-  console.log(0);
-} else {
-  const args = process.argv.map(Number)
-    .slice(2, process.argv.length)
-    .sort((a, b) => a - b);
-  console.log(args[args.length - 2]);
+function factorial (n) {
+  return n === 0 || isNaN(n) ? 1 : n * factorial(n - 1);
 }
+
+console.log(factorial(Number(process.argv[2])));
