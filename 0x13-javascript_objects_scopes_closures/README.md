@@ -101,6 +101,8 @@ Files | Description | Prototype
   passed as arguments into a file specifed as the third argument.
   * Usage: `./102-concat.js fileA fileB fileC`.
 
+*****
+
   <div>
 <!-- semistandard --> <a href="https://github.com/standard/semistandard" target="_blank"><img height="24px" src="https://raw.githubusercontent.com/standard/semistandard/master/badge.svg" alt="Semistandard Code Style" > </a>
 </div>
@@ -140,4 +142,3 @@ sudo npm install semistandard --global
 <a  href="https://github.com/succynice/"  target="_blank">  <img  align="left"  src="https://img.shields.io/github/followers/succynice?style=social"  alt="Ralex | Github">  </a>
 </br>
 </div>
-
