@@ -7,4 +7,8 @@ module.exports = class square extends Rectangle {
   constructor (size) {
     super(size, size);
   }
+
+  double () {
+    super.double();
+  }
 };
