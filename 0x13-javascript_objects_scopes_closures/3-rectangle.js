@@ -11,22 +11,9 @@ module.exports = class Rectangle {
   }
 
   print (c) {
-    this.c = c;
-    if (c === undefined) {
-      c = 'X';
-    }
-
+    c = 'X';
     for (let y = 0; y < this.height; y++) {
       console.log(c.repeat(this.width));
     }
-  }
-
-  rotate () {
-    [this.width, this.height] = [this.height, this.width];
-  }
-
-  double () {
-    this.width *= 2;
-    this.height *= 2;
   }
 };
