@@ -1,17 +1,13 @@
 # Javascript - Objects, Scopes and and Closures
 
-```sql
-       __                  _____           _       __
-      / /___ __   ______ _/ ___/__________(_)___  / /_
- __  / / __ `/ | / / __ `/\__ \/ ___/ ___/ / __ \/ __/
-/ /_/ / /_/ /| |/ / /_/ /___/ / /__/ /  / / /_/ / /_
-\____/\__,_/ |___/\__,_//____/\___/_/  /_/ .___/\__/
-                                        /_/
-```
-
 ## Description
 The aim of this project is to understand the concepts of objects, scopes and closures in javascript. I also learn about the 'this' and 'undefined' keywords, and how to inherit an object from another.
 
+## Tests :heavy_check_mark:
+
+* [tests](./tests): This directory contains all my test files for this project.
+
+*****
 
 ## Function Prototypes :floppy_disk:
 
