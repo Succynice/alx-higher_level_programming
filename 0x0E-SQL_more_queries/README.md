@@ -1,6 +1,7 @@
 # SQL - MORE QUERIES.
 
 ## Table of contents
+
 Files | Description
 ----- | -----------
 [0-privileges.sql](./0-privileges.sql) | sql script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server
